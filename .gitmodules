@@ -1,0 +1,306 @@
+[submodule "GAMF"]
+	path = GAMF
+	url = https://github.com/Thinklab-SJTU/GAMF
+[submodule "FedNew"]
+	path = FedNew
+	url = https://github.com/aelgabli/FedNew
+[submodule "QSFL"]
+	path = QSFL
+	url = https://github.com/LipingYi/QSFL
+[submodule "FedNest"]
+	path = FedNest
+	url = https://github.com/mc-nya/FedNest
+[submodule "rr_prox_fed"]
+	path = rr_prox_fed
+	url = https://github.com/konstmish/rr_prox_fed
+[submodule "FL_partial_personalization"]
+	path = FL_partial_personalization
+	url = https://github.com/krishnap25/FL_partial_personalization
+[submodule "knn-per"]
+	path = knn-per
+	url = https://github.com/omarfoq/knn-per
+[submodule "ProgFed"]
+	path = ProgFed
+	url = https://github.com/a514514772/ProgFed
+[submodule "FedRep"]
+	path = FedRep
+	url = https://github.com/lgcollins/FedRep
+[submodule "FedGen"]
+	path = FedGen
+	url = https://github.com/zhuangdizhu/FedGen
+[submodule "FedWeIT"]
+	path = FedWeIT
+	url = https://github.com/wyjeong/FedWeIT
+[submodule "Collaborative-Incentives"]
+	path = Collaborative-Incentives
+	url = https://github.com/rlphilli/Collaborative-Incentives
+[submodule "ditto"]
+	path = ditto
+	url = https://github.com/litian96/ditto
+[submodule "CRFL"]
+	path = CRFL
+	url = https://github.com/AI-secure/CRFL
+[submodule "probabilistic-federated-neural-matching"]
+	path = probabilistic-federated-neural-matching
+	url = https://github.com/IBM/probabilistic-federated-neural-matching
+[submodule "ModelPoisoning"]
+	path = ModelPoisoning
+	url = https://github.com/inspire-group/ModelPoisoning
+[submodule "bayes-framework-leakage"]
+	path = bayes-framework-leakage
+	url = https://github.com/eth-sri/bayes-framework-leakage
+[submodule "FedPara_ICLR22"]
+	path = FedPara_ICLR22
+	url = https://github.com/South-hw/FedPara_ICLR22
+[submodule "Federated-Learning-Pytorch"]
+	path = Federated-Learning-Pytorch
+	url = https://github.com/shenzebang/Federated-Learning-Pytorch
+[submodule "SplitMix"]
+	path = SplitMix
+	url = https://github.com/illidanlab/SplitMix
+[submodule "FedReg"]
+	path = FedReg
+	url = https://github.com/Zoesgithub/FedReg
+[submodule "robbing_the_fed"]
+	path = robbing_the_fed
+	url = https://github.com/lhfowl/robbing_the_fed
+[submodule "Fed-RoD"]
+	path = Fed-RoD
+	url = https://github.com/hongyouc/Fed-RoD
+[submodule "MagFace"]
+	path = MagFace
+	url = https://github.com/IrvingMeng/MagFace
+[submodule "ntk-fed"]
+	path = ntk-fed
+	url = https://github.com/KAI-YUE/ntk-fed
+[submodule "FedOptim"]
+	path = FedOptim
+	url = https://github.com/shams-sam/FedOptim
+[submodule "FedBABU"]
+	path = FedBABU
+	url = https://github.com/jhoon-oh/FedBABU
+[submodule "FedBN"]
+	path = FedBN
+	url = https://github.com/med-air/FedBN
+[submodule "DBA"]
+	path = DBA
+	url = https://github.com/AI-secure/DBA
+[submodule "FedScale"]
+	path = FedScale
+	url = https://github.com/SymbioticLab/FedScale
+[submodule "HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients"]
+	path = HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients
+	url = https://github.com/dem123456789/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients
+[submodule "fair_flearn"]
+	path = fair_flearn
+	url = https://github.com/litian96/fair_flearn
+[submodule "CAFE"]
+	path = CAFE
+	url = https://github.com/DeRafael/CAFE
+[submodule "fedavgpy"]
+	path = fedavgpy
+	url = https://github.com/lx10077/fedavgpy
+[submodule "model_sharing_games"]
+	path = model_sharing_games
+	url = https://github.com/kpdonahue/model_sharing_games
+[submodule "fedpa"]
+	path = fedpa
+	url = https://github.com/alshedivat/fedpa
+[submodule "invertinggradients"]
+	path = invertinggradients
+	url = https://github.com/JonasGeiping/invertinggradients
+[submodule "pFedGP"]
+	path = pFedGP
+	url = https://github.com/IdanAchituve/pFedGP
+[submodule "FedMatch"]
+	path = FedMatch
+	url = https://github.com/wyjeong/FedMatch
+[submodule "MIFA_code"]
+	path = MIFA_code
+	url = https://github.com/hmgxr128/MIFA_code/
+[submodule "FL-WBC"]
+	path = FL-WBC
+	url = https://github.com/jeremy313/FL-WBC
+[submodule "FedEM"]
+	path = FedEM
+	url = https://github.com/omarfoq/FedEM
+[submodule "fedex"]
+	path = fedex
+	url = https://github.com/mkhodak/fedex
+[submodule "FedMA"]
+	path = FedMA
+	url = https://github.com/IBM/FedMA
+[submodule "DeepReduce"]
+	path = DeepReduce
+	url = https://github.com/hangxu0304/DeepReduce
+[submodule "Differentially-Private-Federated-Bayesian-Optimization"]
+	path = Differentially-Private-Federated-Bayesian-Optimization
+	url = https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optimization
+[submodule "private_federated_linear_bandits"]
+	path = private_federated_linear_bandits
+	url = https://github.com/abhimanyudubey/private_federated_linear_bandits
+[submodule "FCFL"]
+	path = FCFL
+	url = https://github.com/cuis15/FCFL
+[submodule "gradient-inversion-generative-image-prior"]
+	path = gradient-inversion-generative-image-prior
+	url = https://github.com/ml-postech/gradient-inversion-generative-image-prior
+[submodule "gan"]
+	path = gan
+	url = https://github.com/tensorflow/gan
+[submodule "federated_pca"]
+	path = federated_pca
+	url = https://github.com/andylamp/federated_pca
+[submodule "FedAc-NeurIPS20"]
+	path = FedAc-NeurIPS20
+	url = https://github.com/hongliny/FedAc-NeurIPS20
+[submodule "fmtl"]
+	path = fmtl
+	url = https://github.com/gingsmith/fmtl
+[submodule "FedDC"]
+	path = FedDC
+	url = https://github.com/gaoliang13/FedDC
+[submodule "communication-in-cross-silo-fl"]
+	path = communication-in-cross-silo-fl
+	url = https://github.com/omarfoq/communication-in-cross-silo-fl
+[submodule "FCIL"]
+	path = FCIL
+	url = https://github.com/conditionWang/FCIL
+[submodule "FCCL"]
+	path = FCCL
+	url = https://github.com/WenkeHuang/FCCL
+[submodule "Robust_FL"]
+	path = Robust_FL
+	url = https://github.com/FangXiuwen/Robust_FL
+[submodule "ResSFL"]
+	path = ResSFL
+	url = https://github.com/zlijingtao/ResSFL
+[submodule "GGL"]
+	path = GGL
+	url = https://github.com/zhuohangli/GGL
+[submodule "FL-MRCM"]
+	path = FL-MRCM
+	url = https://github.com/guopengf/FL-MRCM
+[submodule "MOON"]
+	path = MOON
+	url = https://github.com/QinbinLi/MOON
+[submodule "ifca"]
+	path = ifca
+	url = https://github.com/jichan3751/ifca
+[submodule "Soteria"]
+	path = Soteria
+	url = https://github.com/jeremy313/Soteria
+[submodule "fedproto"]
+	path = fedproto
+	url = https://github.com/yuetan031/fedproto
+[submodule "feddst"]
+	path = feddst
+	url = https://github.com/bibikar/feddst
+[submodule "SplitFed-When-Federated-Learning-Meets-Split-Learning"]
+	path = SplitFed-When-Federated-Learning-Meets-Split-Learning
+	url = https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning
+[submodule "FedDG-ELCFS"]
+	path = FedDG-ELCFS
+	url = https://github.com/liuquande/FedDG-ELCFS
+[submodule "HarmoFL"]
+	path = HarmoFL
+	url = https://github.com/med-air/HarmoFL
+[submodule "FedTorch"]
+	path = FedTorch
+	url = https://github.com/MLOPTPSU/FedTorch
+[submodule "federated-fdp"]
+	path = federated-fdp
+	url = https://github.com/enosair/federated-fdp
+[submodule "flynn"]
+	path = flynn
+	url = https://github.com/rithram/flynn
+[submodule "FMAB"]
+	path = FMAB
+	url = https://github.com/ShenGroup/FMAB
+[submodule "RSCFed"]
+	path = RSCFed
+	url = https://github.com/XMed-Lab/RSCFed
+[submodule "PF_MAB"]
+	path = PF_MAB
+	url = https://github.com/ShenGroup/PF_MAB
+[submodule "FedRepo"]
+	path = FedRepo
+	url = https://github.com/lxcnju/FedRepo
+[submodule "KDD2021_CNFGNN"]
+	path = KDD2021_CNFGNN
+	url = https://github.com/mengcz13/KDD2021_CNFGNN
+[submodule "fedfr"]
+	path = fedfr
+	url = https://github.com/jackie840129/fedfr
+[submodule "icml2019_zeno"]
+	path = icml2019_zeno
+	url = https://github.com/xcgoner/icml2019_zeno
+[submodule "pFedHN"]
+	path = pFedHN
+	url = https://github.com/AvivSham/pFedHN
+[submodule "Practicing-Federated-Learning"]
+	path = Practicing-Federated-Learning
+	url = https://github.com/FederatedAI/Practicing-Federated-Learning
+[submodule "backdoor_federated_learning"]
+	path = backdoor_federated_learning
+	url = https://github.com/ebagdasa/backdoor_federated_learning
+[submodule "clustered-federated-learning"]
+	path = clustered-federated-learning
+	url = https://github.com/felisat/clustered-federated-learning
+[submodule "SPAHM"]
+	path = SPAHM
+	url = https://github.com/IBM/SPAHM
+[submodule "MetaMF"]
+	path = MetaMF
+	url = https://github.com/TempSDU/MetaMF
+[submodule "Improved-Deep-Leakage-from-Gradients"]
+	path = Improved-Deep-Leakage-from-Gradients
+	url = https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients
+[submodule "R-GAP"]
+	path = R-GAP
+	url = https://github.com/JunyiZhu-AI/R-GAP
+[submodule "machine-learning-diff-private-federated-learning"]
+	path = machine-learning-diff-private-federated-learning
+	url = https://github.com/SAP-samples/machine-learning-diff-private-federated-learning
+[submodule "BatchCrypt"]
+	path = BatchCrypt
+	url = https://github.com/marcoszh/BatchCrypt
+[submodule "FedProx"]
+	path = FedProx
+	url = https://github.com/litian96/FedProx
+[submodule "pFedMe"]
+	path = pFedMe
+	url = https://github.com/CharlieDinh/pFedMe
+[submodule "SimFL"]
+	path = SimFL
+	url = https://github.com/Xtra-Computing/SimFL
+[submodule "orchestra"]
+	path = orchestra
+	url = https://github.com/akhilmathurs/orchestra
+[submodule "FedVision"]
+	path = FedVision
+	url = https://github.com/FederatedAI/FedVision
+[submodule "darknetz"]
+	path = darknetz
+	url = https://github.com/mofanv/darknetz
+[submodule "Awesome-Federated-Learning-on-Graph-and-GNN-papers"]
+	path = Awesome-Federated-Learning-on-Graph-and-GNN-papers
+	url = https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers
+[submodule "SpreadGNN"]
+	path = SpreadGNN
+	url = https://github.com/FedML-AI/SpreadGNN
+[submodule "FKGE"]
+	path = FKGE
+	url = https://github.com/HKUST-KnowComp/FKGE
+[submodule "FedE"]
+	path = FedE
+	url = https://github.com/AnselCmy/FedE
+[submodule "OOD_Federated_Learning"]
+	path = OOD_Federated_Learning
+	url = https://github.com/ksreenivasan/OOD_Federated_Learning
+[submodule "Oort"]
+	path = Oort
+	url = https://github.com/SymbioticLab/Oort
+[submodule "Byzantine-Federeated-RL"]
+	path = Byzantine-Federeated-RL
+	url = https://github.com/flint-xf-fan/Byzantine-Federeated-RL
